@@ -36,6 +36,6 @@ MIT © LANA-AlHajri
 
 ## Connect 🤝
 [@LANA-AlHajri](https://github.com/LANA-AlHajri)
-
+discord : ln0w
 ---
 Made with 💜 | CSS Pure Art
